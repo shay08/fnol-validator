@@ -1,2 +1,3 @@
 # fnol-validator
-Private validation demo for SYGNL Technologies™ FNOL Signal Audit — an interactive tool for identifying early claim signal loss in insurance claims intake.
+The FNOL Signal Audit Validator uses six operational scoring categories drawn from the broader Signal Integrity Framework™ to focus specifically on early claim intake, handoff, severity, delay, and operational friction.
+
